@@ -41,6 +41,6 @@ To: End of date range.
 - getDate
 - readJson
 - pieInfo (Element not covered in class)
-## ProjectView
+## Main class to run the program: ProjectView.java
 - main
 - start
